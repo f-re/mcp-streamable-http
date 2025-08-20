@@ -1,6 +1,6 @@
 # MCP Streamable HTTP – Python and Typescript Examples
-
-ACHTUNG - Benötigt einen ANTHROPIC-KEY!
+    
+WARNING - Requires an Anthropic API key!
 
 This repository provides example implementations of MCP (Model Context Protocol) **Streamable HTTP client and server** in Python and Typescript, based on the specification:  📄 [MCP Streamable HTTP Spec](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http).
 
